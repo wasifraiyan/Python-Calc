@@ -1,0 +1,14 @@
+D:\COMP 2210\PythonCalc\Program.cs\bin\Debug\net8.0\Program.cs.exe
+D:\COMP 2210\PythonCalc\Program.cs\bin\Debug\net8.0\Program.cs.deps.json
+D:\COMP 2210\PythonCalc\Program.cs\bin\Debug\net8.0\Program.cs.runtimeconfig.json
+D:\COMP 2210\PythonCalc\Program.cs\bin\Debug\net8.0\Program.cs.dll
+D:\COMP 2210\PythonCalc\Program.cs\bin\Debug\net8.0\Program.cs.pdb
+D:\COMP 2210\PythonCalc\Program.cs\obj\Debug\net8.0\Program.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\COMP 2210\PythonCalc\Program.cs\obj\Debug\net8.0\Program.cs.AssemblyInfoInputs.cache
+D:\COMP 2210\PythonCalc\Program.cs\obj\Debug\net8.0\Program.cs.AssemblyInfo.cs
+D:\COMP 2210\PythonCalc\Program.cs\obj\Debug\net8.0\Program.cs.csproj.CoreCompileInputs.cache
+D:\COMP 2210\PythonCalc\Program.cs\obj\Debug\net8.0\Program.cs.dll
+D:\COMP 2210\PythonCalc\Program.cs\obj\Debug\net8.0\refint\Program.cs.dll
+D:\COMP 2210\PythonCalc\Program.cs\obj\Debug\net8.0\Program.cs.pdb
+D:\COMP 2210\PythonCalc\Program.cs\obj\Debug\net8.0\Program.cs.genruntimeconfig.cache
+D:\COMP 2210\PythonCalc\Program.cs\obj\Debug\net8.0\ref\Program.cs.dll
